@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>UniBimTablas/UniBimTablas.dll</Assembly>
+    <ClientId>52cacfa9-c8b3-485b-a782-81fc62593582</ClientId>
+    <FullClassName>UniBimTablas.App</FullClassName>
+    <Name>UniversoBIM Tablas</Name>
+    <VendorId>UniversoBIM</VendorId>
+    <VendorDescription>UniversoBIM, www.universobim.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
