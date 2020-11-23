@@ -14,3 +14,6 @@ Creación automática de tablas y exportación a Excel
 * Autodesk Revit 2020
 * Autodesk Revit 2021
 
+## Instalador
+Puedes descargar el instalador para windows desde este link
+* https://sourceforge.net/projects/universo-bim-tablas/files/latest/download
