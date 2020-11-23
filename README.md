@@ -1,7 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)](http://www.gnu.org/licenses/gpl-3.0)
 # UniversoBIM Tablas
 
-<img src="image/UniBimTablas_1.4.jpg" width="640" />
+<img src="images/UniBimTablas_1.4.jpg" width="640" />
 
 Herramientas para trabajar con Tablas en Revit. 
 
