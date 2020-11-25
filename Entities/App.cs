@@ -30,7 +30,7 @@ namespace UniBimTablas
         }
         private void AddMenu(UIControlledApplication app)
         {
-            Autodesk.Revit.UI.RibbonPanel pannel = app.CreateRibbonPanel("UniBIM Tablas 1.50");
+            Autodesk.Revit.UI.RibbonPanel pannel = app.CreateRibbonPanel("UniBIM Tablas 1.5");
             //IMPORTANT NOTE: las imagenes de los botones deben tener su propiedad "Build Action" como Resource.
             string pathResource = "pack://application:,,,/UniBimTablas;component/Resources/";
 
